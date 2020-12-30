@@ -1,0 +1,6 @@
+﻿     Creating library S:\HPC\IntroHPPC\Chapter4\flashlight\x64\Release\flashlight.lib and object S:\HPC\IntroHPPC\Chapter4\flashlight\x64\Release\flashlight.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  flashlight.vcxproj -> S:\HPC\IntroHPPC\Chapter4\flashlight\x64\Release\flashlight.exe
